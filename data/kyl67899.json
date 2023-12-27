@@ -1,6 +1,9 @@
 {
   "name": "Kyle Parsotan",
   "bio": "Software Engineer | Founder of **ClimX** | Software Developer Intern",
+  {
+  "tags": [ "Open Source", "Javascript", "React", "NextJS", "Python"]
+}
   "links": [
     {
       "group": "Software Engineering",
